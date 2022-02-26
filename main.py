@@ -1,3 +1,4 @@
+# a solution to 3b1b collision pi video
 a_mass = 1
 b_mass = 1
 
