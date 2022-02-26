@@ -2,7 +2,7 @@
 
 import copy
 
-for m in range(0, 10, 2):
+for m in range(0, 20, 2):
   a_mass = 1 # kg
   b_mass = 10 ** m # kg
   
