@@ -1,5 +1,6 @@
-import copy
 # a solution to 3b1b collision pi video
+
+import copy
 
 for m in range(0, 10, 2):
   a_mass = 1 # kg
