@@ -23,3 +23,4 @@ while a_velocity > b_velocity or step < 2:
   collisions += 1
 
 print(collisions)
+
